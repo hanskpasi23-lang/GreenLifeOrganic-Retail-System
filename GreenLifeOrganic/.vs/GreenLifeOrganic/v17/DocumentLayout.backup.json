@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Projects\\GreenLifeOrganic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{503EF2A2-E535-42B2-A865-10E61068BC3A}|GreenLifeOrganic.csproj|d:\\visual studio projects\\greenlifeorganic\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{503EF2A2-E535-42B2-A865-10E61068BC3A}|GreenLifeOrganic.csproj|solutionrelative:forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503EF2A2-E535-42B2-A865-10E61068BC3A}|GreenLifeOrganic.csproj|D:\\Visual Studio Projects\\GreenLifeOrganic\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{503EF2A2-E535-42B2-A865-10E61068BC3A}|GreenLifeOrganic.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503EF2A2-E535-42B2-A865-10E61068BC3A}|GreenLifeOrganic.csproj|D:\\Visual Studio Projects\\GreenLifeOrganic\\forms\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{503EF2A2-E535-42B2-A865-10E61068BC3A}|GreenLifeOrganic.csproj|solutionrelative:forms\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\GreenLifeOrganic\\Forms\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\CustomerDashboard.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\GreenLifeOrganic\\Forms\\CustomerDashboard.cs [Design]",
+              "RelativeToolTip": "Forms\\CustomerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T22:21:31.781Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\GreenLifeOrganic\\Forms\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminDashboard.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\GreenLifeOrganic\\Forms\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "Forms\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T22:21:28.88Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\GreenLifeOrganic\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\GreenLifeOrganic\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T22:21:16.641Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

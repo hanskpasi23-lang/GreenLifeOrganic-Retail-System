@@ -1,0 +1,146 @@
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.AdminDashboard.resources
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.CustomerDashboard.resources
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.LoginForm.resources
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.csproj.GenerateResource.cache
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.AssemblyInfo.cs
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\GreenLifeOrganic.exe
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\GreenLifeOrganic.deps.json
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\GreenLifeOrganic.runtimeconfig.json
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\GreenLifeOrganic.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\GreenLifeOrganic.pdb
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Visual Studio Projects\GreenLifeOrganic\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.Checkout.resources
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLif.7E76CA2A.Up2Date
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.dll
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\refint\GreenLifeOrganic.dll
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.pdb
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.genruntimeconfig.cache
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\ref\GreenLifeOrganic.dll
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.Register.resources
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.Review.resources
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.Properties.Resources.resources
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.AdminOrder.resources
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.CustomerOrders.resources
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.UserProfile.resources
+D:\Visual Studio Projects\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.AdminCustomer.resources
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\GreenLifeOrganic.exe
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\GreenLifeOrganic.deps.json
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\GreenLifeOrganic.runtimeconfig.json
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\GreenLifeOrganic.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\GreenLifeOrganic.pdb
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.csproj.AssemblyReference.cache
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.AdminCustomer.resources
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.AdminDashboard.resources
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.AdminOrder.resources
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.Checkout.resources
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.CustomerDashboard.resources
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.CustomerOrders.resources
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.LoginForm.resources
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.Register.resources
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.Review.resources
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.UserProfile.resources
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.Properties.Resources.resources
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.csproj.GenerateResource.cache
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.AssemblyInfoInputs.cache
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.AssemblyInfo.cs
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.csproj.CoreCompileInputs.cache
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLif.7E76CA2A.Up2Date
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\refint\GreenLifeOrganic.dll
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.pdb
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\GreenLifeOrganic.genruntimeconfig.cache
+C:\Users\PASINDU\Desktop\GreenLife Organic\GreenLifeOrganic\obj\Debug\net8.0-windows\ref\GreenLifeOrganic.dll
